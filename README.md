@@ -9,8 +9,8 @@ having more than 1 users simultaneously on a shared document. For other internsh
 
 Currently the editor can recognize every basic minimum text modifiction, and send it to a server.
 Minimum text modifications include:
-insert char at every position
-delete char at every position
-paste text
-cut
+insert char at every position,
+delete char at every position,
+paste text,
+cut,
 select text and modify etc.
